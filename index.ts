@@ -1,5 +1,5 @@
 import { parse } from 'qs'
-import { resolve } from 'path/posix'
+import { resolve } from 'path'
 import { spawn } from 'child_process'
 
 const openInVscode = () => ({
