@@ -3,10 +3,21 @@
   "version": "1.0.0",
   "main": "index.ts",
   "license": "MIT",
+  "author": "oven_si",
   "dependencies": {
     "qs": "^6.10.1"
   },
   "devDependencies": {
     "@types/node": "^16.4.0"
-  }
+  },
+  "homepage": "https://github.com/ovensi/vite-plugin-openinvscode",
+  "repository": {
+    "type": "url",
+    "url": "https://github.com/ovensi/vite-plugin-openinvscode"
+  },
+  "keywords": [
+    "vite",
+    "vite-plugin",
+    "vscode"
+  ]
 }
