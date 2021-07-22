@@ -19,3 +19,10 @@ export default {
 ```
 After run `npm run dev`, type URL path like `http://localhost:3000/__open-in-editor?file=xxxxx`, 
 
+## Best partner
+
+Please use this plugin with [my modified react devtools](https://github.com/ovensi/react/tree/main/packages/react-devtools-extensions) or other tools.
+
+The principle of my react devtools is to send an Ajax request to the middleware, and then open the corresponding file, you can use similar tools or implement your own awesome tools🚀🚀🚀
+
+
